@@ -52,4 +52,4 @@ You can play the game live here: [https://animated-tapioca-567aa9.netlify.app/](
 - [ ] Customizable neon color palettes.
 
 ---
-Developed with ⚡ by [Tu Nombre](https://github.com/tu-usuario)
+Developed with ⚡ by [BashJuno]([https://github.com/tu-usuario](https://github.com/BashJuno-18))
