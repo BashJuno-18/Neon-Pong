@@ -1,0 +1,6 @@
+{
+  "name": "Neon Pong: Cyberpunk Edition",
+  "description": "A futuristic two-player Pong game with neon aesthetics, scoring, and a match timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
