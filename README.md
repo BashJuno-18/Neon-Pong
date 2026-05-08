@@ -3,6 +3,9 @@
 A high-velocity, synthwave-inspired recreation of the classic Pong, designed **exclusively for 2-player local competition**. This project blends retro arcade mechanics with a "Night City" aesthetic, challenging two players to a battle of reflexes within a neon-drenched grid.
 
 ---
+![Neon Pong Gameplay](pong.png)
+
+---
 
 ## 🎮 Live Demo
 You can play the game live here: [https://animated-tapioca-567aa9.netlify.app/](https://animated-tapioca-567aa9.netlify.app/)
